@@ -67,3 +67,10 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 /public/uploads
+.aider*
+
+# Aider Studio (auto-added)
+REPO_MAP.md
+
+# Ignore key files for decrypting credentials and more.
+/config/*.key
